@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuffling Decision Picker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎴 Shuffle & Pick 🎴</h1>
+        <p>Enter options, Let me pick one for you!</p>
+        
+        <div class="input-area">
+            <input type="text" id="optionInput" placeholder="Enter an option...">
+            <button onclick="addCard()">➕ Add</button>
+        </div>
+
+        <div class="cards-container" id="cardsContainer"></div>
+
+        <button class="pick-button" onclick="pickRandom()">🎲 Shuffle & Pick</button>
+
+        <div id="result" class="result-box"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
