@@ -112,8 +112,8 @@ button:hover {
 
 .delete-btn {
     position: absolute;
-    top: 5px;
-    right: 5px;
+    top: 6px;
+    right: 6px;
     background: rgb(255, 255, 255);
     border: none;
     padding: 3px 5px;
