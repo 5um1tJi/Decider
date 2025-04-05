@@ -23,7 +23,7 @@ Simply open index.html in a web browser (Chrome, Firefox, Edge, etc.)
 Enter an option in the input field and click "➕ Add" to create a card.
 
 Click "🎲 Shuffle & Pick" to randomly select one of the options.
-
+It will give an amazing shuffle animation like the real cards.
 The chosen option will be revealed with a flip animation.
 
 🖥️ Technologies Used
